@@ -1,6 +1,6 @@
 Sub LogInformation(LogMessage As String)
 
-Const LogFileName As String = "\\stxfile01\CTXGroups\Retention\RetentionMgt\Reporting\Source\logdata\attData.LOG"
+  Const LogFileName As String = "saveLoc.loc"
 
 Dim FileNum As Integer
 
